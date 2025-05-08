@@ -1,4 +1,4 @@
-## Applied Deep Learning 
+
 # Airline Review Analysis with BERTopic ✈️
 
 This is an individual assignment for the Advanced Deep Learning course, focused on analyzing customer reviews for Singapore Airlines (2018-2024) using BERTopic and providing actionable recommendations.
